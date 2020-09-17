@@ -1,0 +1,9 @@
+﻿<Window x:Class="vistasPrueba.AltaCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AltaCliente" Height="300" Width="300">
+    <Grid>
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="97,215,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="116,175,0,0" Name="label1" VerticalAlignment="Top" />
+    </Grid>
+</Window>
