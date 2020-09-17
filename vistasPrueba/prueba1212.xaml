@@ -1,0 +1,9 @@
+﻿<Window x:Class="vistasPrueba.prueba1212"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="prueba1212" Height="300" Width="300">
+    <Grid>
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="78,20,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+        <Calendar Height="170" HorizontalAlignment="Left" Margin="42,64,0,0" Name="calendar1" VerticalAlignment="Top" Width="181" />
+    </Grid>
+</Window>
